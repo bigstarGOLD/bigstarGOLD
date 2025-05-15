@@ -2,7 +2,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=30&pause=1000&color=76F700&background=FFFFFF00&multiline=true&width=435&height=100&lines=%EB%AC%BC%EC%9D%8C%ED%91%9C(%3F)%EB%A1%9C+%EC%8B%9C%EC%9E%91%ED%95%B4;%EB%A7%88%EC%B9%A8%ED%91%9C(.)%EB%A5%BC+%EC%B0%8D%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80+%EB%90%98%EA%B3%A0+%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&size=30&duration=3000&pause=1000&color=76F700&background=FFFFFF00&multiline=true&width=635&height=100&lines=%EB%AC%BC%EC%9D%8C%ED%91%9C(%3F)%EB%A1%9C+%EC%8B%9C%EC%9E%91%ED%95%B4;%EB%A7%88%EC%B9%A8%ED%91%9C(.)%EB%A5%BC+%EC%B0%8D%EB%8A%94+%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80+%EB%90%98%EA%B3%A0+%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
 
 
