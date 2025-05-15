@@ -7,10 +7,29 @@
 
 
 - 🔭 I’m currently working on **[Project Name or Field]**
-- 🌱 I’m currently learning **[Tech Stack]**
-- 💬 Ask me about **Python, Node.js, Docker, etc.**
+- 🌱 I’m currently learning **[![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
+![Ajax](https://img.shields.io/badge/-Ajax-333333?style=flat&logo=ajax)
+![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+![PrimeVue](https://img.shields.io/badge/-PrimeVue-333333?style=flat&logo=primevue)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typeScript)
+![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=c#)
+![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
+![MYSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=mysql)
+![MSSQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=mssql)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=kafka)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![SVN](https://img.shields.io/badge/-SVN-333333?style=flat&logo=svn)]**
+- 💬 Ask me about **php, Javascript, Html, Vue.js, Typescript, etc...**
 - 📫 How to reach me: **note141226@gmail.com**
-- ⚡ Fun fact: I also love **coffee ☕, cleaning 🥾, and cleaning 🧹**
+- ⚡ Fun fact: I also love **coffee ☕, trip 🛫, and cleaning 🧹**
 
 ---
 
