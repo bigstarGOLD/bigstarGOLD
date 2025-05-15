@@ -11,6 +11,7 @@
 
 ## 🛠️ Languages and Tools
 
+![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![JavaScript](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
