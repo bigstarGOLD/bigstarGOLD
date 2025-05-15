@@ -9,8 +9,8 @@
 - 🔭 I’m currently working on **[Project Name or Field]**
 - 🌱 I’m currently learning **[Tech Stack]**
 - 💬 Ask me about **Python, Node.js, Docker, etc.**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: I also love **coffee ☕, hiking 🥾, and indie games 🎮**
+- 📫 How to reach me: **note141226@gmail.com**
+- ⚡ Fun fact: I also love **coffee ☕, cleaning 🥾, and cleaning 🧹**
 
 ---
 
