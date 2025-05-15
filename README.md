@@ -25,7 +25,7 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![KAFKA](https://img.shields.io/badge/-KAFKA-333333?style=flat&logo=kafka)
+![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=kafka)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ---
