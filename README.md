@@ -11,8 +11,8 @@
 
 ## 🛠️ Languages and Tools
 
-![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![JavaScript](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
@@ -28,5 +28,4 @@
 
 ## 🤝 Connect with me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat)](https://linkedin.com/in/yourprofile)
-[![Blog](https://img.shields.io/badge/Blog-111111?style=flat&logo=velog)](https://velog.io/@yourblog)
+[![Blog](https://img.shields.io/badge/Blog-111111?style=flat&logo=tistory)](https://goldbigstar.tistory.com)
