@@ -20,7 +20,7 @@
 ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typeScript)
-![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=Csharp)
+![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=Csharp)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=mysql)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=mssql)
