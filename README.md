@@ -1,5 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=ece700&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35)
-<h3 align="center">A passionate full-stack developer from Korea</h3>
+![header](https://capsule-render.vercel.app/api?type=shark&color=ece700&height=200&text=Welcome!&animation=fadeIn&fontSize=80&fontAlignY=35)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans+KR&pause=1000&width=435&lines=%EA%B0%9C%EB%B0%9C%EC%9D%98+%EB%B0%B0%EC%9B%80%EC%9D%80+%EB%81%9D%EC%9D%B4+%EC%97%86%EB%8A%94+%EA%B2%83+%EA%B0%99%EC%8A%B5%EB%8B%88%EB%8B%A4.+;%EB%81%9D%EC%9D%B4+%EC%97%86%EB%8A%94+%EB%B0%B0%EC%9B%80%EC%9D%80;%EA%B0%9C%EB%B0%9C%EC%9E%90%EC%97%90%EA%B2%90+%EC%98%A4%ED%9E%88%EB%A0%A4+%EB%8D%94+%EC%A2%8B%EC%9D%80+%EC%9E%A5%EC%A0%90%EC%9D%B4%EC%9E%90%2C+;%EC%9E%90%EC%8B%A0%EC%9D%98+%EB%AC%B4%EA%B8%B0%EA%B0%80+%EC%95%84%EB%8B%90%EA%B9%8C+%EC%8B%B6%EC%8A%B5%EB%8B%88%EB%8B%A4.)](https://git.io/typing-svg)
 
