@@ -12,10 +12,13 @@
 ## 🛠️ Languages and Tools
 
 ![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
-![html](https://img.shields.io/badge/-html-333333?style=flat&logo=html)
+![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
 ![Ajax](https://img.shields.io/badge/-Ajax-333333?style=flat&logo=Ajax)
+![MYSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=MYSQL)
+![MSSQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=MSSQL)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=Oracle)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
