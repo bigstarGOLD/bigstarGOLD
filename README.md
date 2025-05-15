@@ -30,6 +30,7 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=flat&logo=kafka)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![SVN](https://img.shields.io/badge/-SVN-333333?style=flat&logo=svn)
 
 ---
 
