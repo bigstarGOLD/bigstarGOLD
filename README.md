@@ -12,7 +12,7 @@
 ## 🛠️ Languages and Tools
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![JavaScript](https://img.shields.io/badge/-Vue-333333?style=flat&logo=Vue)
+![JavaScript](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=Vue.js)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
