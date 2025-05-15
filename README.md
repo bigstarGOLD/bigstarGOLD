@@ -19,6 +19,7 @@
 ![Ajax](https://img.shields.io/badge/-Ajax-333333?style=flat&logo=ajax)
 ![JSON](https://img.shields.io/badge/-JSON-333333?style=flat&logo=json)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+![PrimeVue](https://img.shields.io/badge/-PrimeVue-333333?style=flat&logo=primevue)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typeScript)
 ![C#](https://img.shields.io/badge/-Csharp-333333?style=flat&logo=c#)
 ![Unity](https://img.shields.io/badge/-Unity-333333?style=flat&logo=unity)
