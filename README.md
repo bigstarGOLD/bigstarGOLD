@@ -13,15 +13,19 @@
 
 ![php](https://img.shields.io/badge/-php-333333?style=flat&logo=php)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![Jquery](https://img.shields.io/badge/-Jquery-333333?style=flat&logo=jquery)
-![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
 ![Ajax](https://img.shields.io/badge/-Ajax-333333?style=flat&logo=ajax)
+![Vue.js](https://img.shields.io/badge/-Vue.js-333333?style=flat&logo=vue.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typeScript)
+![C#](https://img.shields.io/badge/-C#-333333?style=flat&logo=c#)
 ![MYSQL](https://img.shields.io/badge/-MYSQL-333333?style=flat&logo=mysql)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-333333?style=flat&logo=mssql)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![KAFKA](https://img.shields.io/badge/-KAFKA-333333?style=flat&logo=kafka)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ---
