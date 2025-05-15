@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=shark&color=ece700&height=200&text=Welcome+bigstarGOLD+GitHub!&animation=fadeIn&fontSize=80&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=shark&color=ece700&height=200&text=bigstarGOLD's+GitHub!&animation=fadeIn&fontSize=80&fontAlignY=35)
 
 
 
